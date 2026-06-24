@@ -124,4 +124,3 @@ correios = {
 - Logs via Discord webhook
 
 Feito pore Connect Code.
-"# cc_jobs" 
