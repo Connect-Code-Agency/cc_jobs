@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'Connect Code'
-description 'MRI Jobs Pack - Civil Edition for Qbox/Ox'
+description 'MRI Jobs Pack'
 version '1.0.0'
 
 shared_scripts {
